@@ -6,7 +6,7 @@ CREATE TABLE Student (
     DepartmentID INT NOT NULL
 );
 
-DESC sTUDENT;
+DESC Student;
 SELECT * FROM Student;
 ALTER table Student and email VARCHAR (20);
 ALTER table Sudent and phone NUMBER INT(10);
