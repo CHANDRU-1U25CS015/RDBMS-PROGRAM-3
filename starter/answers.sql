@@ -1,3 +1,5 @@
+CREAT DATABASE Student3;
+USE Student3;
 CREATE TABLE Student (
     StudentID INT PRIMARY KEY,
     StudentName VARCHAR(20) NOT NULL UNIQUE,
